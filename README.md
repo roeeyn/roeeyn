@@ -2,7 +2,7 @@
 
 # Hi! I'm Rodrigo :wave:
 
-Over the past years I’ve contributed to open source, and helped different communities to grow. I love to keep learning, and my last interesting subject I’m getting involved is Cybersecurity. If you would like to see some of my events, click here.
+Over the past years I’ve contributed to open source, and helped different communities to grow. I love to keep learning, and my last interesting subject I’m getting involved is Cybersecurity. If you would like to see some of my events, click [here](https://githubcampus.expert/roeeyn/).
 
 I’ve been working primarily on Python and JavaScript, both with different libraries and frameworks.
 
