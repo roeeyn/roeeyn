@@ -8,7 +8,7 @@ I’ve been working primarily on Python and JavaScript, both with different libr
 
 I decided to write posts that shows useful, but hard to find knowledge. Also, I try to make beginner friendly content that makes easier to jump in the developer path.
 
-~Spacemacs~ Neovim lover 💜
+~Spacemacs~ Neovim Enthusiast 💜
 
 - Here are my posts in [DEV.to](https://dev.to/roeeyn)
 - Here is the backup from the posts, using [GitHub Pages](https://roeeyn.github.io/roeeyn_blog/)
